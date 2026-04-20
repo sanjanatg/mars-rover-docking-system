@@ -8,6 +8,7 @@ This embedded system facilitates autonomous docking for a Mars Rover prototype. 
 ## Block Diagram
 
 The system architecture connects a high-voltage AC source through an SMPS to power both the logic (via buck converter) and the high-draw components (motors and chargers).
+<img width="1021" height="885" alt="image" src="https://github.com/user-attachments/assets/0b1b564a-679e-4376-8204-6f94d5407195" />
 
 ---
 
